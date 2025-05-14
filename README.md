@@ -9,13 +9,13 @@
 - [BeanBuilder](https://github.com/toolisticon/bean-builder): A generator to provide a fluent builder for java beans
 
 ### Publications
-- [My Medium Profile](https://medium.com/@tobias.stamann)
-  - [Efficiently Creating Fluent Interfaces in Java](https://medium.com/holisticon-consultants/efficiently-creating-fluent-interfaces-in-java-d8a74351497b?source=friends_link&sk=8fc35b35fd78bef682518a8561b3b0a8)
-  - About Annotation Processing:
-    - [Common pitfalls of implementing Java annotation processors and how to avoid them](https://medium.com/@tobias.stamann/common-pitfalls-of-implementing-java-annotation-processors-and-how-to-avoid-them-e48e99671033?source=friends_link&sk=adc146751acfdcc4df56153131b3b6d8)
-    - [Efficiently Writing Annotation Processors](https://medium.com/holisticon-consultants/efficiently-writing-annotation-processors-ab03d008db85?source=friends_link&sk=6cde5de74bd72bb43871ff18288d96ef)
-    - [Implementing an Annotation Processor with the APTK Stack](https://medium.com/@tobias.stamann/implementing-an-annotation-processor-with-the-aptk-stack-e5464d6cb117?source=friends_link&sk=b4c718023e438201ac19cdd57b054100)
-    - [Testing of Annotation-Processors Reloaded](https://medium.com/holisticon-consultants/testing-of-annotation-processors-reloaded-7061d504316f?source=friends_link&sk=c3f539f969b706522fd714be5c75f9a4)
+[My Medium Profile](https://medium.com/@tobias.stamann)
+- [Efficiently Creating Fluent Interfaces in Java](https://medium.com/holisticon-consultants/efficiently-creating-fluent-interfaces-in-java-d8a74351497b?source=friends_link&sk=8fc35b35fd78bef682518a8561b3b0a8)
+- About Annotation Processing:
+  - [Common pitfalls of implementing Java annotation processors and how to avoid them](https://medium.com/@tobias.stamann/common-pitfalls-of-implementing-java-annotation-processors-and-how-to-avoid-them-e48e99671033?source=friends_link&sk=adc146751acfdcc4df56153131b3b6d8)
+  - [Efficiently Writing Annotation Processors](https://medium.com/holisticon-consultants/efficiently-writing-annotation-processors-ab03d008db85?source=friends_link&sk=6cde5de74bd72bb43871ff18288d96ef)
+  - [Implementing an Annotation Processor with the APTK Stack](https://medium.com/@tobias.stamann/implementing-an-annotation-processor-with-the-aptk-stack-e5464d6cb117?source=friends_link&sk=b4c718023e438201ac19cdd57b054100)
+  - [Testing of Annotation-Processors Reloaded](https://medium.com/holisticon-consultants/testing-of-annotation-processors-reloaded-7061d504316f?source=friends_link&sk=c3f539f969b706522fd714be5c75f9a4)
 
 <!--
 **tobiasstamann/tobiasstamann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
