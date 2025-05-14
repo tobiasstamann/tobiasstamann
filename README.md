@@ -4,7 +4,7 @@
 - [APTK](https://github.com/toolisticon/aptk): A toolkit for building annotation processors
 - [CUTE](https://github.com/toolisticon/cute): A test framework to test annotation processors at compile time
 - [FluApiGen](https://github.com/toolisticon/FluApiGen): A code genrator to ease implementation and maintainance of fluent apis
-- [POGen4Selenium](https://github.com/toolisticon/pogen4selenium): A code generator to create page objects for seleneium to build readable ui tests
+- [POGen4Selenium](https://github.com/toolisticon/pogen4selenium): A code generator to create page objects for Selenium to build readable and maintainable ui tests and browser automation
 - [SPIAP](https://github.com/toolisticon/SPI-Annotation-Processor): An annotation processor that creates SPI configuration files and service loader classes 
 - [BeanBuilder](https://github.com/toolisticon/bean-builder): A generator to provide a fluent builder for java beans
 
